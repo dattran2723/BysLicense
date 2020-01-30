@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/BysLicense
+/BysLicense/bin
+/BysLicense/obj/Debug
+/Data/bin/Debug
+/Data/obj/Debug
+/packages
+/Services/bin/Debug
+/Services/obj/Debug
